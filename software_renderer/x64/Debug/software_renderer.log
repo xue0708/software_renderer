@@ -1,0 +1,26 @@
+﻿  geometry.cpp
+  gl_library.cpp
+C:\Users\XueZhiqiang\Desktop\renderee\software_renderer\software_renderer\tgaimage.h(43,54): warning C4244: “=”: 从“double”转换到“uint8_t”，可能丢失数据
+  main.cpp
+C:\Users\XueZhiqiang\Desktop\renderee\software_renderer\software_renderer\tgaimage.h(43,54): warning C4244: “=”: 从“double”转换到“uint8_t”，可能丢失数据
+C:\Users\XueZhiqiang\Desktop\renderee\software_renderer\software_renderer\main.cpp(53,41): warning C4244: “参数”: 从“double”转换到“const _Ty”，可能丢失数据
+          with
+          [
+              _Ty=int
+          ]
+  model.cpp
+C:\Users\XueZhiqiang\Desktop\renderee\software_renderer\software_renderer\tgaimage.h(43,54): warning C4244: “=”: 从“double”转换到“uint8_t”，可能丢失数据
+C:\Users\XueZhiqiang\Desktop\renderee\software_renderer\software_renderer\model.cpp(55,25): warning C4267: “return”: 从“size_t”转换到“int”，可能丢失数据
+C:\Users\XueZhiqiang\Desktop\renderee\software_renderer\software_renderer\model.cpp(59,31): warning C4267: “return”: 从“size_t”转换到“int”，可能丢失数据
+C:\Users\XueZhiqiang\Desktop\renderee\software_renderer\software_renderer\model.cpp(79,66): warning C4244: “参数”: 从“double”转换到“const int”，可能丢失数据
+C:\Users\XueZhiqiang\Desktop\renderee\software_renderer\software_renderer\model.cpp(79,34): warning C4244: “参数”: 从“double”转换到“const int”，可能丢失数据
+C:\Users\XueZhiqiang\Desktop\renderee\software_renderer\software_renderer\model.cpp(83,70): warning C4244: “参数”: 从“double”转换到“const int”，可能丢失数据
+C:\Users\XueZhiqiang\Desktop\renderee\software_renderer\software_renderer\model.cpp(83,39): warning C4244: “参数”: 从“double”转换到“const int”，可能丢失数据
+C:\Users\XueZhiqiang\Desktop\renderee\software_renderer\software_renderer\model.cpp(91,68): warning C4244: “参数”: 从“double”转换到“const int”，可能丢失数据
+C:\Users\XueZhiqiang\Desktop\renderee\software_renderer\software_renderer\model.cpp(91,35): warning C4244: “参数”: 从“double”转换到“const int”，可能丢失数据
+  tgaimage.cpp
+C:\Users\XueZhiqiang\Desktop\renderee\software_renderer\software_renderer\tgaimage.h(43,54): warning C4244: “=”: 从“double”转换到“uint8_t”，可能丢失数据
+C:\Users\XueZhiqiang\Desktop\renderee\software_renderer\software_renderer\tgaimage.cpp(289,32): warning C4267: “+=”: 从“size_t”转换到“int”，可能丢失数据
+C:\Users\XueZhiqiang\Desktop\renderee\software_renderer\software_renderer\tgaimage.cpp(294,36): warning C4267: “+=”: 从“size_t”转换到“int”，可能丢失数据
+  正在生成代码...
+  software_renderer.vcxproj -> C:\Users\XueZhiqiang\Desktop\renderee\software_renderer\x64\Debug\software_renderer.exe
